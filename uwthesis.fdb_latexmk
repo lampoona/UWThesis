@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex uwthesis"] 1695674971 "uwthesis.aux" "uwthesis.bbl" "uwthesis" 1695675576 0
+["bibtex uwthesis"] 1695674971 "uwthesis.aux" "uwthesis.bbl" "uwthesis" 1695781867 0
   "./uwthesis.bib" 1695667933 1645 07c5d5926cc3a54cccc092f3007e80e3 ""
   "/usr/local/texlive/2023/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "uwthesis.aux" 1695675575 5493 ae2627747536ea3b6e5cddfdcb509e2a "pdflatex"
+  "uwthesis.aux" 1695781867 5493 ae2627747536ea3b6e5cddfdcb509e2a "pdflatex"
   (generated)
   "uwthesis.bbl"
   "uwthesis.blg"
   (rewritten before read)
-["pdflatex"] 1695675574 "/Users/sgorji/Documents/UWThesis/uwthesis.tex" "uwthesis.pdf" "uwthesis" 1695675576 0
-  "/Users/sgorji/Documents/UWThesis/uwthesis.tex" 1695675574 28369 6ef9bde1309cc1ab1c75b94060e4e19d ""
+["pdflatex"] 1695781866 "/Users/sgorji/Documents/UWThesis/uwthesis.tex" "uwthesis.pdf" "uwthesis" 1695781867 0
+  "/Users/sgorji/Documents/UWThesis/uwthesis.tex" 1695781866 28369 6ef9bde1309cc1ab1c75b94060e4e19d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -67,12 +67,12 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1695670059 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1695670032 7883453 b5c76e11b8e7449620c021fea53ff95f ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "uwthesis.aux" 1695675575 5493 ae2627747536ea3b6e5cddfdcb509e2a "pdflatex"
+  "uwthesis.aux" 1695781867 5493 ae2627747536ea3b6e5cddfdcb509e2a "pdflatex"
   "uwthesis.bbl" 1695674971 1261 cfb8c06a07533f52dbe4c549433a5b5b "bibtex uwthesis"
   "uwthesis.cls" 1695667933 25639 537de1eafbfe22333963a4af87a3be83 ""
-  "uwthesis.lof" 1695675575 470 82c1bf95f81250b998bf3925211e050a "pdflatex"
-  "uwthesis.tex" 1695675574 28369 6ef9bde1309cc1ab1c75b94060e4e19d ""
-  "uwthesis.toc" 1695675575 2480 5b90465722b188e977e756ac4fbd9706 "pdflatex"
+  "uwthesis.lof" 1695781867 470 82c1bf95f81250b998bf3925211e050a "pdflatex"
+  "uwthesis.tex" 1695781866 28369 6ef9bde1309cc1ab1c75b94060e4e19d ""
+  "uwthesis.toc" 1695781867 2480 5b90465722b188e977e756ac4fbd9706 "pdflatex"
   (generated)
   "uwthesis.aux"
   "uwthesis.lof"
